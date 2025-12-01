@@ -1,0 +1,7 @@
+com\springbalaji\odd\dto\FinalQueryRequest.class
+com\springbalaji\odd\service\WebhookService.class
+com\springbalaji\odd\util\SqlSolutionProvider.class
+com\springbalaji\odd\runner\StartupRunner.class
+com\springbalaji\odd\dto\GenerateWebhookRequest.class
+com\springbalaji\odd\OddApplication.class
+com\springbalaji\odd\dto\GenerateWebhookResponse.class
